@@ -232,6 +232,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ### TOTAL TIME = 1.26 ms.
 ### FREQUENCY = 793.65 Hz.
 
+
 ## Result :
 
 A PWM Signal is generated using the following frequency and various duty cycles are simulated.
