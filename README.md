@@ -213,24 +213,24 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ### FOR PULSE AT 50%
 ![Output](Op3-pmc6.png)
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+### TON = 0.66 ms.
+### TOFF= 0.62 ms.
+### TOTAL TIME = 1.28 ms
+### FREQUENCY = 781.25 Hz.
 
 ### FOR PULSE AT 70%
 ![Output](Op4-pmc6.png)
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+### TON = 0.86 ms.
+### TOFF= 0.38 ms.
+### TOTAL TIME = 1.24 ms.
+### FREQUENCY = 806.45 Hz
 
 ### FOR PULSE AT 90%
-![Output](Op6-pmc6.png)
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+![Output](Op5-pmc6.png)
+### TON = 1.12 ms.
+### TOFF = 0.14 ms.
+### TOTAL TIME = 1.26 ms.
+### FREQUENCY = 793.65 Hz.
 
 ## Result :
 
